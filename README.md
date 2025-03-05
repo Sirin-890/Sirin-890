@@ -26,9 +26,7 @@ Currently working on **Face Completion for Occluded Faces (New Approach)**.
 
 ## 📫 How to Reach Me
 
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:b23cm1038@iitj.ac.in)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sirin-changulani-7b69a927b)  
-
+📧 sirinchangulani99@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirin-changulani-7b69a927b/)  
 
 🚀 Always open to collaborations in AI and ML!
