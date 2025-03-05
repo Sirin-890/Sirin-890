@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-Sophomore at **IIT Jodhpur**, interested in **AI, ML, Generative AI, VLMs ,Computer Vision and Reinforcment Learning**.  
+Sophomore at **IIT Jodhpur**, interested in **AI, ML, Generative AI, VLMs, Computer Vision, and Reinforcement Learning**.  
 Currently working on **Face Completion for Occluded Faces (New Approach)**.  
 
 ## Skills
@@ -22,5 +22,6 @@ Currently working on **Face Completion for Occluded Faces (New Approach)**.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Panda3D](https://img.shields.io/badge/-Panda3D-004C99?style=flat) 
 ![Pygame](https://img.shields.io/badge/-Pygame-34A853?style=flat) 
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white) 
 
 🚀 Always open to collaborations in AI and ML!
