@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-Sophomore at **IIT Jodhpur**, interested in **AI, ML, Generative AI, VLMs, Computer Vision, and Reinforcement Learning**.  
+Pre Final year student at **IIT Jodhpur**, interested in **AI, ML, Generative AI, VLMs, Computer Vision, and Reinforcement Learning**.  
 Currently working on **Face Completion for Occluded Faces (New Approach)**.  
 
 ## Skills
